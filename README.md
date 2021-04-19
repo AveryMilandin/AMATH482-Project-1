@@ -1,1 +1,1 @@
-# AMATH482-Project-1
+# Signal Denoising and Submarine Tracking
